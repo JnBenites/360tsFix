@@ -14,7 +14,10 @@ C:\Program Files (x86)\360\Total Security\DailyNews.exe
 Download\DailyNews.exe ---> C:\Program Files (x86)\360\Total Security\DailyNews.exe
 
 ```
-#### host
+#### Agregar lineas al archivo host
+```
+C:\Windows\System32\drivers\etc
+```
 ```
 0.0.0.0 turbovpn.com
 0.0.0.0 www.opera.com
