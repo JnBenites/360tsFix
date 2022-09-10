@@ -14,3 +14,15 @@ C:\Program Files (x86)\360\Total Security\DailyNews.exe
 Download\DailyNews.exe ---> C:\Program Files (x86)\360\Total Security\DailyNews.exe
 
 ```
+
+### host
+```
+
+0.0.0.0 turbovpn.com
+0.0.0.0 www.opera.com
+0.0.0.0 worldoftanks.eu
+0.0.0.0 empire.goodgamestudios.com
+0.0.0.0 adguard.com
+0.0.0.0 bigfarm.goodgamestudios.com
+0.0.0.0 turbovpn.com
+```
