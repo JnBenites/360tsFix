@@ -14,7 +14,7 @@ C:\Program Files (x86)\360\Total Security\DailyNews.exe
 Download\DailyNews.exe ---> C:\Program Files (x86)\360\Total Security\DailyNews.exe
 
 ```
-#### Agregar lineas al archivo host
+#### Add lines to host file to block ads
 ```
 C:\Windows\System32\drivers\etc
 ```
