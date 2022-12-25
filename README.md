@@ -1,4 +1,5 @@
 ### 360tsFix
+#### 360 Total Security Fix
 Truncate annoying function after boot
 
 #### 1. Download the inert file
